@@ -6,13 +6,13 @@ Pretty stat bars for rpgs and games.
 (use 'colorbars-clj.core)
 
 ;; makes a generic stat bar with "  stat:  12 / 15 " with white/cyan bg and black/black text with 25 width
-;;  (filled-bar "stat" 12 15 25 :bg-white :bg-cyan :black :black) 
+(filled-bar "stat" 12 15 25 :bg-white :bg-cyan :black :black) 
 
 ;; makes a hit points bar with "  hp: 30 / 30 " with green/red bg and black/black text with 40 width
-;;  (hp-bar 30 30 40)
+(hp-bar 30 30 40)
 
 ;; makes a magic points bar with "  mp: 30 / 30 " with cyan/blue bg and black/white text with 40 width
-;;  (hp-bar 30 30 40)
+(hp-bar 30 30 40)
 
 ;; displays name, hp/mhp bar, mp/mmp bar of a map.
 ;; for use with an actor map, ex: 
