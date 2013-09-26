@@ -19,7 +19,7 @@ You want pretty, colored, terminal-outputted stat bars for your rogue-like game?
  <img src="http://i.imgur.com/tKil606.png" alt="a pretty hit point bar" title="hp bar" />
 
 
-see [intro.md](https://github.com/phiat/colorbars-clj/blob/master/doc/intro.md) for more
+see [intro](https://github.com/phiat/colorbars-clj/blob/master/doc/intro.md) for more
 
 ## License
 
