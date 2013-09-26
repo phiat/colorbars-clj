@@ -23,4 +23,4 @@ Pretty stat bars for rpgs and games.
 <img src="http://i.imgur.com/WG6hR0b.png" title="Harold's stat bars"/>
 
 
-Make some dungeon crawlers!
+Make some dungeon crawlers!  Drain and fill those stat bars!
