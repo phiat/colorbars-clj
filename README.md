@@ -1,6 +1,6 @@
 # colorbars-clj
 
-A Clojure library designed to make rpg-style stat bars, using clansi for coloring
+A Clojure library designed to make rpg-style stat bars, using clansi for coloring.
 
 ## Usage
 
@@ -14,7 +14,7 @@ A Clojure library designed to make rpg-style stat bars, using clansi for colorin
 ```
 <img src="http://i.imgur.com/tKil606.png" alt="a pretty hit point bar" title="hp bar" align="left" />
 
-
+##
 ## License
 
 Copyright © 2013 Patrick Ryan
