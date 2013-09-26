@@ -6,7 +6,7 @@ You want pretty, colored, terminal-outputted stat bars for your rogue-like game?
 
 ## Usage
 
-[Leiningen](https://github.com/technomancy/leiningen) users add this to `project.clj`:
+[Leiningen](https://github.com/technomancy/leiningen) users add this to your :dependencies in `project.clj`:
 
     [colorbars-clj "0.2.0-SNAPHOT"]
 
