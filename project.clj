@@ -1,4 +1,4 @@
-(defproject colorbars-clj "0.2.0-SNAPSHOT"
+(defproject colorbars-clj "0.2.0"
   :description "A Clojure library designed to make rpg-style stat bars, using clansi for coloring."
   :url "https://github.com/phiat/colorbars-clj"
   :license {:name "Eclipse Public License"
