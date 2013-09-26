@@ -2,12 +2,17 @@
 
 A Clojure library designed to make rpg-style stat bars, using clansi for coloring.
 
+You want pretty, colored, terminal-outputted stat bars for your rogue-like game? Try this...
 
 ## Usage
 
-You want pretty, colored, terminal-outputted stat bars for your rogue-like game? Try this...
+[Leiningen](https://github.com/technomancy/leiningen) users add this to `project.clj`:
 
+    [colorbars-clj "0.2.0-SNAPHOT"]
+
+then use like this:
 ```clojure
+
 (use 'colorbars-clj)
 (def hp 9)      ;; verbose for example
 (def mhp 10)
