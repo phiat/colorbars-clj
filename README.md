@@ -26,6 +26,8 @@ then use like this:
 
 see [intro](https://github.com/phiat/colorbars-clj/blob/master/doc/intro.md) for more
 
+*suggestions welcomed!*
+
 ## License
 
 Copyright © 2013 Patrick Ryan
