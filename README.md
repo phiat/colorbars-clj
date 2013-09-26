@@ -13,7 +13,7 @@ A Clojure library designed to make rpg-style stat bars, using clansi for colorin
 (hp-bar hp mhp width)
 ```
 
-	<img src="http://i.imgur.com/tKil606.png" alt="a pretty hit point bar" title="hp bar" align="left" />
+<img src="http://i.imgur.com/tKil606.png" alt="a pretty hit point bar" title="hp bar" align="left" />
 
 
 ##
