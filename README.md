@@ -26,7 +26,7 @@ then use like this:
 
 see [intro](https://github.com/phiat/colorbars-clj/blob/master/doc/intro.md) for more
 
-*suggestions welcomed!*
+*suggestions welcome!*
 
 ## License
 
