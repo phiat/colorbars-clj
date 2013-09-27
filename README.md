@@ -1,3 +1,5 @@
+<img src="http://i.imgur.com/FhbhTPU.png" title="colorbars-clj" alt="colorbars-clj"/>
+
 # colorbars-clj
 
 A Clojure library designed to make rpg-style stat bars, using clansi for coloring.
