@@ -1,4 +1,4 @@
-<img src="http://i.imgur.com/FhbhTPU.png?1" title="colorbars-clj" alt="colorbars-clj"/>
+<img src="http://i.imgur.com/HnoEPbo.png" title="colorbars-clj" alt="colorbars-clj"/>
 
 # colorbars-clj
 
