@@ -12,7 +12,7 @@ Pretty stat bars for rpgs and games.
 (hp-bar 30 30 40)
 
 ;; makes a magic points bar with "  mp: 30 / 30 " with cyan/blue bg and black/white text with 40 width
-(hp-bar 30 30 40)
+(mp-bar 30 30 40)
 
 ;; displays name, hp/mhp bar, mp/mmp bar of a map.
 ;; for use with an actor map, ex: 
